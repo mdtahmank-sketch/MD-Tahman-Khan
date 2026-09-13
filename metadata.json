@@ -1,0 +1,6 @@
+{
+  "name": "Game Booster - DarLink XArena",
+  "description": "ইনফিনিক্স দার-লিংক গেম স্পেস ও এক্স-অ্যারেনা স্টাইল আল্ট্রা গেম বুস্টার — র‍্যাম ক্লিনার, এফপিএস অপটিমাইজার, ডিএনডি ও নেটওয়ার্ক অ্যাক্সিলারেটর",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
